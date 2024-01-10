@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*取款机-推荐线路-首选",
+            "host":"http://qkj1.dian668.com"
+        },
+        {
+            "title":"*取款机-临时线路-备用",
+            "host":"http://122.228.8.204:2828"
+        }
+]
+})
